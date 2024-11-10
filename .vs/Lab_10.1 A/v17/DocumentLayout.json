@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_10\\Lab_10.1 A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8678A6A-F244-4F75-8FCD-03D1F5F04788}|Lab_10.1 A\\Lab_10.1 A.vcxproj|D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_10\\Lab_10.1 A\\Lab_10.1 A\\Lab_10.1 A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8678A6A-F244-4F75-8FCD-03D1F5F04788}|Lab_10.1 A\\Lab_10.1 A.vcxproj|solutionrelative:Lab_10.1 A\\Lab_10.1 A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_10.1 A.cpp",
+              "DocumentMoniker": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_10\\Lab_10.1 A\\Lab_10.1 A\\Lab_10.1 A.cpp",
+              "RelativeDocumentMoniker": "Lab_10.1 A\\Lab_10.1 A.cpp",
+              "ToolTip": "D:\\NULP\\AP\\autumn_labs\u0026pract\\November\\ReadyToLook\\ap_t_10\\Lab_10.1 A\\Lab_10.1 A\\Lab_10.1 A.cpp",
+              "RelativeToolTip": "Lab_10.1 A\\Lab_10.1 A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T09:18:34.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
